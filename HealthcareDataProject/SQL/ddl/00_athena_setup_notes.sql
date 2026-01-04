@@ -1,0 +1,3 @@
+-- Athena setup notes
+-- Set workgroup query result location:
+-- s3://<S3_BUCKET>/<RESULTS_PREFIX>/

@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS healthcare_raw;
+CREATE DATABASE IF NOT EXISTS healthcare_curated;
